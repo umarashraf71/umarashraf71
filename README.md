@@ -22,10 +22,17 @@
 
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
+<img alt="Git" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
+
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
 <br/>
 
 <a href="https://github.com/umarashraf71">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarashraf71&theme=buefy&layout=compact" />
 </a>
+
+
+
 
 <br/>
