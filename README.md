@@ -1,4 +1,4 @@
-<h3> Hey there! Its Umar Ashraf Here</h3>
+<h3> Hey there! Its Umar Ashraf Here ...</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -24,7 +24,7 @@
 
 <img alt="Git" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> 
 
-<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img alr="Microsoft" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 <br/>
 
